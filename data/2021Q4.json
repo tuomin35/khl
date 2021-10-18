@@ -1,0 +1,25 @@
+{
+   "games":[
+      {
+         "date":"2021-10-03",
+         "red":0,
+         "white":0,
+         "reds":["JaniS", "MarkoJ", "MarttiL", "SamiJ"],
+         "whites":["EeroT", "MarkusL", "MikkoT", "TeemuA"]
+      },
+      {
+         "date":"2021-10-10",
+         "red":1,
+         "white":4,
+         "reds":["JaniS", "Mikko", "OlliM", "SamiJ"],
+         "whites":["EeroT", "MarttiL", "TeemuA"]
+      },
+      {
+         "date":"2021-10-17",
+         "red":2,
+         "white":5,
+         "reds":["JaniS", "MarkoJ", "MikkoT", "OlliM", "SamiJ"],
+         "whites":["EeroT", "MarttiL", "MarkusL", "PetriT"]
+      }
+   ]
+}
