@@ -1,0 +1,11 @@
+{
+   "games":[
+      {
+         "date":"2022-09-04",
+         "red":4,
+         "white":2,
+         "reds":["JaniS", "Leppis", "PetriT", "Seppo"],
+         "whites":["EeroT", "TeemuA", "AriN", "MattiJ"]
+      }
+   ]
+}
