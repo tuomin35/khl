@@ -7,5 +7,13 @@
          "reds":["JaniS", "Leppis", "PetriT", "Seppo"],
          "whites":["EeroT", "TeemuA", "AriN", "MattiJ"]
       }
+      {
+         "date":"2022-09-11",
+         "red":4,
+         "white":1,
+         "reds":["JaniS", "Jalosevic", "OlliM", "PetriT"],
+         "whites":["EeroT", "TeemuA", "Seppo", "Martti"]
+      }
+      
    ]
 }
