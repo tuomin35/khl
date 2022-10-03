@@ -27,6 +27,13 @@
          "white":3,
          "reds":["JaniS", "Jyvis", "OlliM", "Seppo", "PetriT"],
          "whites":["Martti", "TeemuA", "EeroT", "MattiJ"]
+      },
+      {
+         "date":"2022-10-02",
+         "red":1,
+         "white":5,
+         "reds":["JaniS", "Jyvis", "OlliM", "MikkoT", "PetriT"],
+         "whites":["Martti", "TeemuA", "EeroT", "AriN", "Seppo"]
       }
       
    ]
