@@ -6,6 +6,35 @@
          "white":2,
          "reds":["JaniS", "Leppis", "PetriT", "Seppo"],
          "whites":["EeroT", "TeemuA", "AriN", "MattiJ"]
+      },
+      {
+         "date":"2022-09-11",
+         "red":4,
+         "white":1,
+         "reds":["JaniS", "Jalosevic", "OlliM", "PetriT"],
+         "whites":["EeroT", "TeemuA", "Seppo", "Martti"]
+      },
+      {
+         "date":"2022-09-18",
+         "red":2,
+         "white":4,
+         "reds":["JaniS", "AriN", "OlliM", "Seppo"],
+         "whites":["Martti", "TeemuA", "EeroT", "MattiJ"]
+      },
+      {
+         "date":"2022-09-25",
+         "red":2,
+         "white":3,
+         "reds":["JaniS", "Jyvis", "OlliM", "Seppo", "PetriT"],
+         "whites":["Martti", "TeemuA", "EeroT", "MattiJ"]
+      },
+      {
+         "date":"2022-10-02",
+         "red":1,
+         "white":5,
+         "reds":["JaniS", "Jyvis", "OlliM", "MikkoT", "PetriT"],
+         "whites":["Martti", "TeemuA", "EeroT", "AriN", "Seppo"]
       }
+      
    ]
 }
